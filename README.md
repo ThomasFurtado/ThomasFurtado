@@ -1,4 +1,4 @@
-## Hi there, I am Thomas 👋
+## Hi, I am Thomas 👋
 ### Welcome to my Github profile
 - 🔭 I’m currently working on a Brazilian ecommerce public dataset from Olist Store creating analysis and models in order to better understand how to behave in the business world.
 - 🌱 I’m currently learning Big Data Science, specifying in Spark with Scala and Python, Docker, SQL and NoSQL databases.
@@ -6,13 +6,16 @@
 - 💬 Ask me about Data Science, Python, SQL DB, Machine Learning.
 
 ### Tools and Technologies
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</div>
 
-### Contatos:
+
+
+### Contact me:
 
 <div>
 
