@@ -1,19 +1,26 @@
 ## Hi, I am Thomas 👋
+<a href="https://picasion.com/"><img align="right" height="200" style="border-radius:50px;"  src="https://i.picasion.com/pic92/3f4db827efd86713f5554157718d50d7.gif" width="200" height="300" border="0" alt="https://picasion.com/" /></a><br />
 ### Welcome to my Github profile
-- 🔭 I’m currently working on a Brazilian ecommerce public dataset from Olist Store creating analysis and models in order to better understand how to behave in the business world.
+- 🔭 I’m currently working on a [Brazilian ecommerce public dataset from Olist](https://duckduckgo.com) Store creating analysis and models in order to better understand how to behave in the business world.
 - 🌱 I’m currently learning Big Data Science, specifying in Spark with Scala and Python, Docker, SQL and NoSQL databases.
 - 🤔 I’m looking for help finding new projects to add my habilities and help you out.
 - 💬 Ask me about Data Science, Python, SQL DB, Machine Learning.
 
 ### Tools and Technologies
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />          
+
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          
+
+
 </div>
-
-
 
 ### Contact me:
 
@@ -30,9 +37,10 @@
 <a href="https://github.com/ThomasFurtado">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasFurtado&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasFurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-          ![Snake animation](https://github.com/ThomasFurtado/ThomasFurtado/blob/output/github-contribution-grid-snake.svg)
 
           
 
