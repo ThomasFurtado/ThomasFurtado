@@ -1,4 +1,5 @@
 ## Hi, I am Thomas 👋
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/17a1faaa29fb57995689861bb70cdb88.gif" width="300" height="295" border="0" alt="https://picasion.com/" /></a><br />
 
 ### Welcome to my Github profile
 - 🔭 I’m currently working on a [Brazilian ecommerce public dataset from Olist](https://duckduckgo.com) Store creating analysis and models in order to better understand how to behave in the business world.
@@ -20,7 +21,7 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
           
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/fd1c204412001a0a4b1f7731761589a2.gif" width="300" height="450" border="0" alt="https://picasion.com/" /></a><br />
+
 
 
 </div>
