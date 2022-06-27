@@ -1,10 +1,11 @@
 ## Hi, I am Thomas 👋
-<a href="https://picasion.com/"><img align="right" height="200" style="border-radius:50px;"  src="https://i.picasion.com/pic92/3f4db827efd86713f5554157718d50d7.gif" width="200" height="300" border="0" alt="https://picasion.com/" /></a><br />
+
 ### Welcome to my Github profile
 - 🔭 I’m currently working on a [Brazilian ecommerce public dataset from Olist](https://duckduckgo.com) Store creating analysis and models in order to better understand how to behave in the business world.
 - 🌱 I’m currently learning Big Data Science, specifying in Spark with Scala and Python, Docker, SQL and NoSQL databases.
 - 🤔 I’m looking for help finding new projects to add my habilities and help you out.
 - 💬 Ask me about Data Science, Python, SQL DB, Machine Learning.
+
 
 ### Tools and Technologies
 <div>
@@ -18,6 +19,8 @@
 
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
           
+
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/fd1c204412001a0a4b1f7731761589a2.gif" width="300" height="450" border="0" alt="https://picasion.com/" /></a><br />
 
 
 </div>
