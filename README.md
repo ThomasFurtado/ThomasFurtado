@@ -2,7 +2,7 @@
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/17a1faaa29fb57995689861bb70cdb88.gif" width="300" height="295" border="0" alt="https://picasion.com/" /></a><br />
 
 ### Welcome to my Github profile
-- 🔭 I’m currently working on a [Brazilian ecommerce public dataset from Olist](https://duckduckgo.com) Store creating analysis and models in order to better understand how to behave in the business world.
+- 🔭 I’m currently working on a [Brazilian ecommerce public dataset from Olist](https://github.com/ThomasFurtado/Olist_Sales_Analysis.git) Store creating analysis and models in order to better understand how to behave in the business world.
 - 🌱 I’m currently learning Big Data Science, specifying in Spark with Scala and Python, Docker, SQL and NoSQL databases.
 - 🤔 I’m looking for help finding new projects to add my habilities and help you out.
 - 💬 Ask me about Data Science, Python, SQL DB, Machine Learning.
